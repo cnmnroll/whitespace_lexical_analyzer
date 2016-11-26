@@ -1,0 +1,2 @@
+# whitespace_lexical_analyzer
+rubyでwhitespaceの字句解析器実装
